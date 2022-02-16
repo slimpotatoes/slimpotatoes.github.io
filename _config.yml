@@ -14,4 +14,9 @@ twitter_username: APofelski
 linkedin_username: alexandre-pofelski-120a5a13
 github_username:  slimpotatoes
 
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
 exclude: ['package.json', 'src' , 'node_modules']
