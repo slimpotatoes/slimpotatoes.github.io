@@ -1,6 +1,6 @@
 # Site settings
 title: Alexandre Pofelski
-description: Jekyll Theme Minimal Resume
+description: Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://slimpotatoes.github.io"
 domain: "slimpotatoes.github.io"
