@@ -7,7 +7,12 @@ domain: "slimpotatoes.github.io"
 
 # User settings
 username: Alexandre Pofelski
-user_description: It's me.
+user_description: You will find here an overview of my professional and personal activities.
+  In brief, I have been working for more than 10 years in the field of Transmission Electron Microscopy observing
+  nanostructures and nanodevices. I like to call myself a microscopist and spend my time developing novel methods to
+  reveal hidden materials properties. I am also an enthusiast lecturer exploring hybrid learning methods for science
+  and engineering courses. Lastly, I am an amateur Python scripter applying various image processing techniques on
+  electron microscpy datasetsand digging into machine learning practices. Feel free to contact me if anything here catches your interest.
 user_title: Post doctorate researcher in Transmission Electron Microscopy
 email: alexandre.pofelski@gmail.com
 twitter_username: APofelski
