@@ -91,3 +91,7 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 # Credits
 
 - [Nathan Randecker](https://github.com/nrandecker)
+
+# Additional Credits
+- [Willian Justen](https://github.com/willianjusten) Will Jekyll Template ==> [will-jekyll-template](https://github.com/willianjusten/will-jekyll-template)
+- [Vincent Garreau](https://github.com/VincentGarreau) JavaScript library for creating particles ==> [particles.js](https://github.com/VincentGarreau/particles.js)
